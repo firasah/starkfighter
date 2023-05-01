@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8f1f4feb.css",
-    "main.js": "/static/js/main.58eef28f.js",
+    "main.js": "/static/js/main.6447da82.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/console.jpg": "/static/media/console.b786a3b7026d60d32f7a.jpg",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.66c70dd3060602f28f47bf2ade5815f7.svg",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.8f1f4feb.css",
-    "static/js/main.58eef28f.js"
+    "static/js/main.6447da82.js"
   ]
 }
